@@ -17,7 +17,7 @@ function App() {
       id: 1,
       name: "DRISHTI Universal Device",
       description: "An AI-powered, OBD2 + GPS device that works with all types of vehicles (2W, 3W, 4W, trucks, tractors) for real-time tracking, diagnostics, predictive maintenance, theft detection, and driver coaching.",
-      image: "/images/DRISHTI Universal Device.png",
+      image: "/images/1.webp",
       features: [
         "Works with all vehicle types (2W, 3W, 4W, trucks, tractors)",
         "AI-powered diagnostics and predictive maintenance", 
@@ -34,7 +34,7 @@ function App() {
       id: 2,
       name: "DRISHTI Dashcam",
       description: "Centralized hardware and software solution for fleet management and analytics with advanced video recording capabilities.",
-      image: "/images/DRISHTI Dashcam.png",
+      image: "/images/2.webp",
       features: [
         "HD video recording with night vision",
         "AI motion detection and incident alerts",
@@ -51,7 +51,7 @@ function App() {
       id: 3,
       name: "DRISHTI Smart Converters",
       description: "Devices for Wi-Fi connectivity and AI alerting, enabling integration with various vehicle types for enhanced safety and performance.",
-      image: "/images/DRISHTI Smart Converters.png",
+      image: "/images/3.webp",
       features: [
         "Wi-Fi connectivity for seamless integration",
         "AI-powered safety alerts and notifications",
